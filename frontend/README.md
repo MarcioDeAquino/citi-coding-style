@@ -296,3 +296,5 @@ __GitHub:__ rvlb-19
     }
     console.log('Hello World.');
     ```
+
+7. Utilize Javascript inline no arquivo HTML __apenas__ quando for extremamente necessário.
