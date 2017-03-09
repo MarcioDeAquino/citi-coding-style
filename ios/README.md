@@ -67,6 +67,7 @@ Também é possível utilizar o _Optional Chaining_ de Swift em alguns casos:
     ```
 
 11. Os arquivos .swift criados devem conter apenas uma _class_/_struct_/_extension_/etc. _top-level_ por vez, onde o nome da estrutura é igual ao nome do arquivo.
+
     ```swift
     // Arquivo LoginViewController.swift
     class LoginViewController: UIViewController {
@@ -74,6 +75,7 @@ Também é possível utilizar o _Optional Chaining_ de Swift em alguns casos:
     }
     ```
 12. Ao abrir um novo bloco, use `{` (chaves) na mesma linha.
+
     ```swift
     // Certo
     if foo == 2 {
