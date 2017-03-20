@@ -7,9 +7,9 @@ __GitHub:__ rvlb-19
 
 ### 1. Django
 
-1. Use Python 3.
+1. Se possível, use Python 3.
 
-2. Use Django 1.10.
+2. Se possível, use Django 1.10.
 
 3. Use `'aspas simples'` quando for necessário.
 
