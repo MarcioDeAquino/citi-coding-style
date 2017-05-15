@@ -50,7 +50,7 @@ __GitHub:__ rvlb-19
         print("There's nothing in foo.")
     }
     ```
-Também é possível utilizar o _Optional Chaining_ de Swift em alguns casos:
+    Também é possível utilizar o _Optional Chaining_ de Swift em alguns casos:
 
     ```swift
     // A forma a seguir fará com que o método só seja chamado caso foo != nil.
